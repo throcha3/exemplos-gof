@@ -1,0 +1,1 @@
+Alguns exemplos básicos para entendimento dos padrões de Projetos segundo o livro "Padrões de Projeto - Soluções Reutilizaveis de Software Orientado a Objetos" de Erich Gamma, e outros.
